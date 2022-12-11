@@ -14,6 +14,11 @@ Either you put individual files in the audio folder and they will appears in blu
 or you can put folders containing variant of the same sound and they will be played randomly when you click on the orange button !
 
 The UI was made to use one half of the screen and having your text application with you scenario on the other half.
+There is a CONSTANT.py where you can set some options.
+The player table is generated from a .CSV file so it's easily customizable. ;)
+
+Everything is in french but you should be able to change it in the code.
+Refer to the CSV file to change the players'table headers.
 
 I'm planning to make a modified version of this for iOS.
 ![Screenshot01](https://user-images.githubusercontent.com/16622605/206892479-e9264dd7-7d83-4397-b941-655b7347180e.jpg)
